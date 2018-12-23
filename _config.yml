@@ -65,7 +65,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Pedro Torres
+  name: Marcelo Bulhoes
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -75,14 +75,14 @@ social-network-links:
   # rss: true
   # email: "someone@example.com"
   # facebook: daattali
-  github: pedrohbtp
-  twitter: pebtp
+  github: marcelobbfonseca
+  twitter: marcelobbfonsec
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: pedrohbtp
-  medium: pedrohbtp
+  linkedin: marcelo-fonseca-2ab444b0
+  medium: marcelobbff
 #  xing: yourname
-  stackoverflow: "4288795/pedro-torres"
+  stackoverflow: "7964557/marcelo-fonseca"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
