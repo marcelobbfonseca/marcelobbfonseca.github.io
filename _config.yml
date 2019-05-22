@@ -83,6 +83,7 @@ social-network-links:
   medium: marcelobbff
 #  xing: yourname
   stackoverflow: "7964557/marcelo-fonseca"
+  researchgate: Marcelo_Fonseca22
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -91,7 +92,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-
 # Select which share links to show in posts
 share-links-active:
   twitter: true
